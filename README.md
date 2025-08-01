@@ -1,4 +1,4 @@
-# Rocket-Project
+<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/972553c5-b892-480e-a9bd-87bcff03ee87" /># Rocket-Project
 For hack club!
 
 #  Bill of Materials (BOM)
@@ -11,16 +11,16 @@ For hack club!
 | Structure    | PETG Filament Rolls                      | 1kg Creality PETG filament                            | $24.98         | [Amazon](https://www.amazon.com/Official-Creality-Precision-Toughness-Moistureproof/dp/B0D4PX28KK) |
 | Structure    | Fiberglass Cloth                         | With TotalBoat epoxy (airframe)                       | $21.99         | [Amazon](https://www.amazon.com/dp/B0DN5FFPSV) |
 | Structure    | TotalBoat Epoxy Kit                      | Laminating epoxy for tube                             | $68.99         | [Amazon](https://www.amazon.com/dp/B00HR8515W) |
-| Structure    | Carbon Rods / Internal Support           | Structural reinforcement                              | Free           | (User-sourced) |
+| Structure    | Carbon Rods / Internal Support           | Structural reinforcement                              | Free           | N/A |
 | Structure    | M2/M3/M4 Screws and Nuts                 | Stainless hardware assortment                         | $22.99         | [Amazon](https://www.amazon.com/JROUTH-1500Pcs-Assortment-Wrenches-Industrial/dp/B0B6PVJTHY) |
 | Recovery     | Drogue Parachute (12″)                   | Deploys at apogee                                     | Free           | N/A |
 | Recovery     | Main Parachute (24–30″)                  | Deploys at 450 ft                                     | Free           | N/A |
 | Recovery     | Kevlar Shock Cord (20 ft)                | Flame-resistant tether                                | Free           | N/A |
 | Recovery     | E-Matches (Slim Gem Starters)            | For pyro channel deployment                           | Free           | N/A |
 | Propulsion   | Aerotech G74W-9 (29mm Motor)             | Commercial solid motor, ~135 N peak thrust            | $62.05         | [Apogee Rockets](https://www.apogeerockets.com/Rocket_Motors/AeroTech_Motors/29mm_Motors_Single_Use/Aerotech_29mm_Motor_G74W-9) |
-| Propulsion   | 29mm Motor Retainer                      | Motor retention system                                | Free           | — |
-| Software     | C++ Flight Code                          | Custom stabilization, pyro control, telemetry logic   | Free           | — |
-| Software     | HTML/CSS/JS Ground Station               | Telemetry dashboard                                   | Free           | — |
+| Propulsion   | 29mm Motor Retainer                      | Motor retention system                                | Free           | N/A |
+| Software     | C++ Flight Code                          | Custom stabilization, pyro control, telemetry logic   | Free           | N/A |
+| Software     | HTML/CSS/JS Ground Station               | Telemetry dashboard                                   | Free           | N/A |
 
 ---
 
