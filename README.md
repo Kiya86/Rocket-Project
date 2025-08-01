@@ -1,4 +1,3 @@
-<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/972553c5-b892-480e-a9bd-87bcff03ee87" /># Rocket-Project
 For hack club!
 
 #  Bill of Materials (BOM)
