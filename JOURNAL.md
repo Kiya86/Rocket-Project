@@ -5,11 +5,11 @@ Total Time (Hours): 17 Hours
 ## Week 1 (07/14/2025) - 6 Hours
 
 Days worked on:
-Monday - 1 hour
-Tuesday - 30 minutes
-Wednesday - 2 hours
-Thursday - 1 hour and 30 minutes
-Friday - 1 hour
+- Monday - 1 hour
+- Tuesday - 30 minutes
+- Wednesday - 2 hours
+- Thursday - 1 hour and 30 minutes
+- Friday - 1 hour
 
 - Began with concept (Watch a lot of YouTube videos to get an idea) 
 - Started to select parts like motor, servos, and parachute (Servos were changed many times due to strengh of output) 
