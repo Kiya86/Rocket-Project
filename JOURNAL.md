@@ -4,6 +4,13 @@ Total Time (Hours): 17 Hours
 
 ## Week 1 (07/14/2025) - 6 Hours
 
+Days worked on:
+Monday - 1 hour
+Tuesday - 30 minutes
+Wednesday - 2 hours
+Thursday - 1 hour and 30 minutes
+Friday - 1 hour
+
 - Began with concept (Watch a lot of YouTube videos to get an idea) 
 - Started to select parts like motor, servos, and parachute (Servos were changed many times due to strengh of output) 
 - Decided to choose the Aerotech G74W-9 motor as the size is perfect (29mm)  
@@ -17,7 +24,13 @@ Total Time (Hours): 17 Hours
 
 ---
 
-## Week 2 (07/21/2025) - 8 Hours
+## Week 2 (07/21/2025) - 7 Hours
+Days worked on:
+Monday - 2 hours
+Tuesday - 1 hour 
+Wednesday - 1 hours
+Thursday - 2 hours
+Friday - 1 hour
 
 - Designed the entire bottom section of the rocket, including servo mounts, fin mounts, and bottom end 
 - Did research on what to make the outer skin of the rocket of (Chose PETG instead of PLA) 
@@ -33,6 +46,12 @@ Total Time (Hours): 17 Hours
 ---
 
 ## Week 3 (07/28/2025)  - 3 Hours
+Days worked on:
+Monday - 1 hour
+Tuesday - 30 minutes
+Wednesday - None :(
+Thursday - 1 hour and 30 minutes
+Friday - None :(
 
 - Started to work on outer skin and upper sections
 - Finished fin designs and worked on tolerances  
@@ -46,7 +65,12 @@ Total Time (Hours): 17 Hours
 
 ---
 
-## Week 4 (06/07/2025)
+## Week 4 (06/07/2025) - 1 Hour
+Monday - 15 minutes
+Tuesday - 30 minutes
+Wednesday - None :(
+Thursday - 15 minutes
+Friday - None :(
 
 - Started to source parts (Used and new)
 - Found a great deal on carbon tubes and a parachute
