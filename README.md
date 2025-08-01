@@ -4,9 +4,9 @@ For hack club!
 
 | **Category** | **Item**                                | **Details**                                           | **Est. Price** | **Purchase Link** |
 |--------------|------------------------------------------|-------------------------------------------------------|----------------|--------------------|
-| Actuation    | 4× Blue Bird BMS-127WV+ Servos           | High-torque metal gear servos                         | $93.36         | [HyperFlight](https://www.hyperflight.co.uk/products.asp?code=BMS-127WV&name=blue-bird-bms-127wv-servo-5-3kg-cm-0-05s-11-3g-10mm) |
-| Actuation    | M3 Tie Rod Ends                          | Ball joints                                           | $5.38          | [AliExpress](https://www.aliexpress.us/item/3256806825116101.html) |
-| Actuation    | Steel Linkages                           | Pushrods                                              | $2.50          | [AliExpress](https://www.aliexpress.us/item/2251832447460374.html) |
+| Mechanical    | 4× Blue Bird BMS-127WV+ Servos           | High-torque metal gear servos                         | $93.36         | [HyperFlight](https://www.hyperflight.co.uk/products.asp?code=BMS-127WV&name=blue-bird-bms-127wv-servo-5-3kg-cm-0-05s-11-3g-10mm) |
+| Mechanical    | M3 Tie Rod Ends                          | Ball joints                                           | $5.38          | [AliExpress](https://www.aliexpress.us/item/3256806825116101.html) |
+| Mechanical    | Steel Linkages                           | Pushrods                                              | $2.50          | [AliExpress](https://www.aliexpress.us/item/2251832447460374.html) |
 | Structure    | PETG Filament Rolls                      | 1kg Creality PETG filament                            | $24.98         | [Amazon](https://www.amazon.com/Official-Creality-Precision-Toughness-Moistureproof/dp/B0D4PX28KK) |
 | Structure    | Fiberglass Cloth                         | With TotalBoat epoxy (airframe)                       | $21.99         | [Amazon](https://www.amazon.com/dp/B0DN5FFPSV) |
 | Structure    | TotalBoat Epoxy Kit                      | Laminating epoxy for tube                             | $68.99         | [Amazon](https://www.amazon.com/dp/B00HR8515W) |
