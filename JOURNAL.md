@@ -5,6 +5,7 @@ Total Time (Hours): 17 Hours
 ## Week 1 (07/14/2025) - 6 Hours
 
 Days worked on:
+
 Monday – 1 hour<br>
 Tuesday – 30 minutes<br>
 Wednesday – 2 hours<br>
