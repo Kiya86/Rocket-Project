@@ -25,3 +25,6 @@ For hack club!
 ---
 
 Total: $415.22
+
+<img width="542" height="743" alt="image" src="https://github.com/user-attachments/assets/2a9ce227-b87d-46e6-9ffa-064a8bbe6356" />
+<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
