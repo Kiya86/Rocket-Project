@@ -1,5 +1,14 @@
 For hack club!
 
+A short description of what your project is:
+
+My project is a fin-controlled rocket that uses 4 servos and a 29mm rocket motor. I decided to avoid using canards as it was way too complex (I am not a coding god). 
+
+A couple of sentences on why you made the project:
+
+I am way too passionate about rockets. Like every since immigrating to the US I have been wanting to build RC planes and rockets, and it's finally time! 
+
+
 # Bill of Materials (BOM)
 
 | **Category** | **Item**                                | **Details**                                           | **Est. Price** | **Purchase Link** |
