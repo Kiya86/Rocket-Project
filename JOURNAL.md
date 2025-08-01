@@ -1,6 +1,8 @@
 # Dev Log "Green Goblin"
 
-## Week 1 (07/14/2025)
+Total Time (Hours): 17 Hours
+
+## Week 1 (07/14/2025) - 6 Hours
 
 - Began with concept (Watch a lot of YouTube videos to get an idea) 
 - Started to select parts like motor, servos, and parachute (Servos were changed many times due to strengh of output) 
@@ -15,7 +17,7 @@
 
 ---
 
-## Week 2 (07/21/2025)
+## Week 2 (07/21/2025) - 8 Hours
 
 - Designed the entire bottom section of the rocket, including servo mounts, fin mounts, and bottom end 
 - Did research on what to make the outer skin of the rocket of (Chose PETG instead of PLA) 
@@ -30,7 +32,7 @@
 
 ---
 
-## Week 3 (07/28/2025)
+## Week 3 (07/28/2025)  - 3 Hours
 
 - Started to work on outer skin and upper sections
 - Finished fin designs and worked on tolerances  
