@@ -13,10 +13,10 @@ For hack club!
 | Structure    | TotalBoat Epoxy Kit                      | Laminating epoxy for tube                             | $68.99         | [Amazon](https://www.amazon.com/dp/B00HR8515W) |
 | Structure    | Carbon Rods / Internal Support           | Structural reinforcement                              | Free           | (User-sourced) |
 | Structure    | M2/M3/M4 Screws and Nuts                 | Stainless hardware assortment                         | $22.99         | [Amazon](https://www.amazon.com/JROUTH-1500Pcs-Assortment-Wrenches-Industrial/dp/B0B6PVJTHY) |
-| Recovery     | Drogue Parachute (12″)                   | Deploys at apogee                                     | Free           | (User-sourced) |
-| Recovery     | Main Parachute (24–30″)                  | Deploys at 450 ft                                     | Free           | (User-sourced) |
-| Recovery     | Kevlar Shock Cord (20 ft)                | Flame-resistant tether                                | Free           | (User-sourced) |
-| Recovery     | E-Matches (Slim Gem Starters)            | For pyro channel deployment                           | Free           | (User-sourced) |
+| Recovery     | Drogue Parachute (12″)                   | Deploys at apogee                                     | Free           | N/A |
+| Recovery     | Main Parachute (24–30″)                  | Deploys at 450 ft                                     | Free           | N/A |
+| Recovery     | Kevlar Shock Cord (20 ft)                | Flame-resistant tether                                | Free           | N/A |
+| Recovery     | E-Matches (Slim Gem Starters)            | For pyro channel deployment                           | Free           | N/A |
 | Propulsion   | Aerotech G74W-9 (29mm Motor)             | Commercial solid motor, ~135 N peak thrust            | $62.05         | [Apogee Rockets](https://www.apogeerockets.com/Rocket_Motors/AeroTech_Motors/29mm_Motors_Single_Use/Aerotech_29mm_Motor_G74W-9) |
 | Propulsion   | 29mm Motor Retainer                      | Motor retention system                                | Free           | — |
 | Software     | C++ Flight Code                          | Custom stabilization, pyro control, telemetry logic   | Free           | — |
