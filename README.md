@@ -1,5 +1,10 @@
 For hack club!
 
+<img width="542" height="743" alt="image" src="https://github.com/user-attachments/assets/2a9ce227-b87d-46e6-9ffa-064a8bbe6356" />
+<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
+<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
+<img width="536" height="743" alt="image" src="https://github.com/user-attachments/assets/5c159d5b-800f-40ad-a0ec-67393d10bed1" />
+
 A short description of what your project is:
 
 My project is a fin-controlled rocket that uses 4 servos and a 29mm rocket motor. I decided to avoid using canards as it was way too complex (I am not a coding god). 
@@ -36,8 +41,4 @@ Total: $351.61
 
 PCB will be paid for by an onboard grant and will be created soon! Hopefully it works...
 
-<img width="542" height="743" alt="image" src="https://github.com/user-attachments/assets/2a9ce227-b87d-46e6-9ffa-064a8bbe6356" />
-<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
-<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
-<img width="536" height="743" alt="image" src="https://github.com/user-attachments/assets/5c159d5b-800f-40ad-a0ec-67393d10bed1" />
 
