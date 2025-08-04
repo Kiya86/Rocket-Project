@@ -1,8 +1,10 @@
 # *Green Goblin*
 
-
-<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
+# A highly advanced rocket equipped with four controllable fins for real-time control. The rocket utilizes a PETG airframe that will be reinforced with fiberglass cloth and resin. 
 <img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
+
+# The inner structure of teh rocket is similar to the outer skin, but rather made out of PETG without fiberglass reinforcement. The rocket is able to house one 29mm motor up to 220 mm long due to servos being a constraint. 
+<img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
 
 
 # Bill of Materials (BOM)
@@ -32,7 +34,7 @@ Total: $351.61
 
 PCB will be paid for by an onboard grant and will be created soon! Hopefully it works...
 
-A couple of sentences on why you made the project:
+# A couple of sentences on why you made the project:
 
 I am way too passionate about rockets. Like every since immigrating to the US I have been wanting to build RC planes and rockets, and it's finally time! 
 
