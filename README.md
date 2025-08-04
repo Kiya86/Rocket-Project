@@ -34,7 +34,7 @@ Total: $351.61
 
 PCB will be paid for by an onboard grant and will be created soon! Hopefully it works...
 
-### A couple of sentences on why you made the project:
+### Why did I make this rocket?
 
 I am way too passionate about rockets. Like every since immigrating to the US I have been wanting to build RC planes and rockets, and it's finally time! 
 
