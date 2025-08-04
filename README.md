@@ -6,7 +6,7 @@
 ### The inner structure of teh rocket is similar to the outer skin, but rather made out of PETG without fiberglass reinforcement. The rocket is able to house one 29mm motor up to 220 mm long due to servos being a constraint. 
 <img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
 
-### The PCB of the rocket uses multiple sensors, such as the MPU9250, BMP581 and the AHT21. The PCB also uses LoRa to communicate with a ground station with another esp32. THe flight computer can be used in any rocket as long as it fits! 
+### The PCB of the rocket uses multiple sensors, such as the MPU9250, BMP581 and the AHT21. The PCB also uses LoRa to communicate with a ground station with another ESP32. The flight computer can be used in any rocket as long as it fits! 
 <img width="521" height="249" alt="image" src="https://github.com/user-attachments/assets/30ab31da-ead2-4c12-86df-2da79120138d" />
 
 
