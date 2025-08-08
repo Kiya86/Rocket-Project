@@ -8,6 +8,7 @@
 
 ### The PCB of the rocket uses multiple sensors, such as the MPU9250, BMP581 and the AHT21. The PCB also uses LoRa to communicate with a ground station with another ESP32. The flight computer can be used in any rocket as long as it fits! 
 <img width="521" height="249" alt="image" src="https://github.com/user-attachments/assets/30ab31da-ead2-4c12-86df-2da79120138d" />
+<img width="2000" height="2002" alt="image" src="https://github.com/user-attachments/assets/6e8ecd75-1603-48b9-aea9-5decf727e095" />
 
 
 
