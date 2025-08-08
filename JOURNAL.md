@@ -1,4 +1,4 @@
-| title   | author          | description                                      | created_at |
+| Title   | Author          | Description                                      | Created_at |
 |---------|-----------------|--------------------------------------------------|------------|
 | Green Goblin | Kiya  | A fin controlled rocket! | 2025-07-14 |
 
