@@ -1,3 +1,8 @@
+| title   | author          | description                                      | created_at |
+|---------|-----------------|--------------------------------------------------|------------|
+| Green Goblin | Kiya  | A fin controlled rocket! | 2025-07-14 |
+
+
 # Dev Log "Green Goblin"
 
 Total Time (Hours): 17 Hours
