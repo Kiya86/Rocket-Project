@@ -73,7 +73,7 @@ Friday - None :(<br>
 
 ---
 
-## Week 4 (06/07/2025) - 1 Hour
+## Week 4 (07/28/2025) - 1 Hour
 Days worked on:
 
 Monday - 15 minutes<br>
@@ -91,3 +91,27 @@ Friday - None :(<br>
 <img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/3f96df59-7ebb-4da5-8dc8-c75a19041ff2" />
 <img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/00b8acc9-ce4b-49de-bf27-427b546d1eb5" />
 <img width="462" height="743" alt="image" src="https://github.com/user-attachments/assets/be1f5d29-2932-4216-8508-319b39136bf6" />
+
+# Physical Build
+
+## Week 1 (08/01/2025) 
+
+-Started to 3D print parts and bought fiberglass
+-Started to fiberglass the outer airframe skin
+-Prototyped PCB
+-Bought PCB
+![IMG_6472](https://github.com/user-attachments/assets/cafb0cf9-8727-4665-ad78-b69759219eb6)
+![IMG_6528](https://github.com/user-attachments/assets/0762aee7-48b5-479f-b6b5-98214558691e)
+
+## Week 2 (08/08/2025) 
+
+-Finished all 3D prints
+-Finished PCB
+-Finished outer skin with fiberglass
+-Painted rocket 
+![IMG_6705](https://github.com/user-attachments/assets/e848cf72-041e-4869-8ed8-1316dcea32a3)
+![IMG_6609](https://github.com/user-attachments/assets/8676af79-2c11-4ac1-b898-d24512bed73d)
+![IMG_6608](https://github.com/user-attachments/assets/33753d30-fcb9-43ba-b677-484c911b10d5)
+![IMG_6600](https://github.com/user-attachments/assets/e81dd6f6-b2e5-4a5d-a50d-b34ef4133de2)
+![IMG_6532](https://github.com/user-attachments/assets/241ac5cf-71b1-428e-b095-6b18b1ebc717)
+
