@@ -43,3 +43,8 @@ PCB will be paid for by an onboard grant and will be created soon! Hopefully it 
 
 I am way too passionate about rockets. Like every since immigrating to the US I have been wanting to build RC planes and rockets, and it's finally time! 
 
+# Physical Build
+![IMG_6621](https://github.com/user-attachments/assets/f529b123-3412-46e3-898d-cedd933912fe)
+![IMG_6600](https://github.com/user-attachments/assets/8717a2f7-a181-474a-81ef-1b47a99ecfe7)
+
+
