@@ -100,6 +100,7 @@ Friday - None :(<br>
 - Started to fiberglass the outer airframe skin<br>
 - Prototyped PCB<br>
 - Bought PCB<br>
+
 ![IMG_6472](https://github.com/user-attachments/assets/cafb0cf9-8727-4665-ad78-b69759219eb6)
 ![IMG_6528](https://github.com/user-attachments/assets/0762aee7-48b5-479f-b6b5-98214558691e)
 
@@ -109,7 +110,7 @@ Friday - None :(<br>
 - Finished PCB<br>
 - Finished outer skin with fiberglass<br>
 - Painted rocket<br> 
-![IMG_6705](https://github.com/user-attachments/assets/e848cf72-041e-4869-8ed8-1316dcea32a3)
+
 ![IMG_6609](https://github.com/user-attachments/assets/8676af79-2c11-4ac1-b898-d24512bed73d)
 ![IMG_6608](https://github.com/user-attachments/assets/33753d30-fcb9-43ba-b677-484c911b10d5)
 ![IMG_6600](https://github.com/user-attachments/assets/e81dd6f6-b2e5-4a5d-a50d-b34ef4133de2)
