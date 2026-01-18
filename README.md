@@ -1,4 +1,4 @@
-# *Green Goblin*
+# *Fin Controlled Rocket*
 
 ### A highly advanced rocket equipped with four controllable fins for real-time control. The rocket utilizes a PETG airframe that will be reinforced with fiberglass cloth and resin. 
 <img width="1520" height="730" alt="image" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
