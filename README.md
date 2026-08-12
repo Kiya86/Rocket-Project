@@ -9,7 +9,6 @@ An actively stabilized rocket designed for control and experimental flight.
 <div align="center">
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge)
 
 </div>
@@ -28,7 +27,6 @@ An actively stabilized rocket designed for control and experimental flight.
 - **4× Blue Bird BMS-127WV+ Servos** —High torque metal gear servos, which are used to actuate the four fins
 - **Pushrod System** —The steel linkages and M3 ball joints transfer servo motion to the control fins
 - **Modular Internal Structure** —The internal components are housed within a PETG frame, which can easily be adapted 
-- **29 mm motor compatibility** —Designed around a 29 mm commercial motor mount.
 - **Custom Flight Computer** —Hardware used to control the rocket using sensors 
 
 ## Purpose
