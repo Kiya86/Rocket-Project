@@ -4,15 +4,15 @@
 A four-fin actively stabilized rocket designed for aerodynamic control and experimental flight systems.
 </h4>
 
-<img width="1520" height="730" alt="MainRender" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
-<img width="1520" height="730" alt="InternalRender" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
-
 <div align="center">
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PETG](https://img.shields.io/badge/PETG-3D%20Printed-00A98F?style=for-the-badge)
 ![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge)
+
+<img width="1520" height="730" alt="MainRender" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
+<img width="1520" height="730" alt="InternalRender" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
 
 </div>
 
