@@ -42,5 +42,6 @@ The entire vehicle was designed in Fusion 360, including the external airframe, 
 ## Internal Render
 
 <img width="4000" height="4000" alt="RenderRocket2" src="https://github.com/user-attachments/assets/372d5562-6eb5-486d-8557-0a52d4ba5bb6" />
-<img width="4000" height="4000" alt="RenderRocket2300" src="https://github.com/user-attachments/assets/aa3173b8-0a08-4331-bf70-502181ba50a1" />
+<img width="4000" height="4000" alt="RenderRocket3" src="https://github.com/user-attachments/assets/3c065e90-c773-43a4-ab34-6daeef1bd5e7" />
+
 
