@@ -1,7 +1,8 @@
 # Fin-Stabilized Vehicle
 
-<img width="1520" height="730" alt="MainRender" src="https://github.com/user-attachments/assets/93e39f6f-0f19-47b9-8712-8c15fb8ae3f0" />
-<img width="1520" height="730" alt="InternalRender" src="https://github.com/user-attachments/assets/776c001d-d437-4f6f-b11a-22c24a1819f8" />
+<img width="4000" height="4000" alt="RenderRocket1" src="https://github.com/user-attachments/assets/e68ac21f-8f91-4a3a-990d-c32c723329bf" />
+<img width="4000" height="4000" alt="RenderRocket2" src="https://github.com/user-attachments/assets/be5978d4-175a-4ecd-bd4e-35436daccb5a" />
+
 
 <h4 align="center">
 A four-fin actively stabilized rocket designed for aerodynamic control and experimental flight systems.
