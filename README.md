@@ -35,13 +35,9 @@ This project was made to mainly test a flight computer for an actively stabilize
 
 Unlike other rockets, this vehicle uses the four independently actuated fins to keep a straight upward trajectory. Future plans include guiding the flight vehicle on the downward decent as well.  
 
----
-
 ## Design
 
 The entire vehicle was designed in Fusion 360, including the external airframe, internal structure, servo mounts, fin mechanisms, motor section, and other various components. The main concept of the design was to develop around a modular architecture so that mechanical, electronics and propulsion sections can be swapped without effecting the entire rocket design. 
-
----
 
 ## Internal Render
 
