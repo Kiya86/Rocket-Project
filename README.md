@@ -1,4 +1,4 @@
-# Fin-Stabilized Vehicle
+# Fin Stabilized Flight Vehicle
 
 <img width="4000" height="4000" alt="RenderRocket1" src="https://github.com/user-attachments/assets/e68ac21f-8f91-4a3a-990d-c32c723329bf" />
 
@@ -12,98 +12,39 @@ An actively stabilized rocket designed for control and experimental flight.
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge)
 
-
 </div>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#key-features">Features</a> •
   <a href="#purpose">Purpose</a> •
-  <a href="#airframe">Airframe</a> •
-  <a href="#active-fin-control">Fin Control</a> •
+  <a href="#design">Design</a> •
   <a href="#propulsion">Propulsion</a> •
-  <a href="#recovery-system">Recovery</a> •
-  <a href="#software">Software</a> •
-  <a href="#bom">BOM</a>
+  <a href="#internal-render">Internal Render</a> •
 </p>
 
----
+## Features
 
-## Key Features
-
-- **Four independently controlled fins** — Provides active aerodynamic control through four servo-actuated control surfaces.
-- **4× Blue Bird BMS-127WV+ servos** — High-torque metal-gear servos used to actuate the four fins.
-- **Mechanical pushrod system** — Steel linkages and M3 ball joints transfer servo motion to the control fins.
-- **PETG airframe** — Lightweight 3D-printed primary structure designed in Fusion 360.
-- **Fiberglass reinforcement** — The external airframe is reinforced with fiberglass cloth and laminating epoxy.
-- **Modular internal structure** — Internal components are housed within a PETG structural framework.
-- **29 mm motor compatibility** — Designed around a 29 mm commercial motor mount.
-- **Up to 220 mm motor length** — Motor length is limited primarily by the available internal volume and servo placement.
-- **Drogue + main recovery system** — Two-stage parachute recovery architecture.
-- **Custom flight software** — C++ control software for stabilization, telemetry, and recovery-system logic.
-- **Ground station** — HTML/CSS/JavaScript-based telemetry interface for monitoring flight data.
-
----
+- **Four Independent Fins** -Each fin can be controlled individually allowing aerodynamic control through the servo actuation 
+- **4× Blue Bird BMS-127WV+ Servos** —High torque metal gear servos, which are used to actuate the four fins
+- **Pushrod System** —The steel linkages and M3 ball joints transfer servo motion to the control fins
+- **Modular Internal Structure** —The internal components are housed within a PETG frame, which can easily be adapted 
+- **29 mm motor compatibility** —Designed around a 29 mm commercial motor mount.
+- **Custom Flight Computer** —Hardware used to control the rocket using sensors 
 
 ## Purpose
 
-This project is an experimental **actively stabilized rocket platform** designed to explore aerodynamic control, servo-driven fin actuation, flight software, and recovery systems.
+This project was made to mainly test a flight computer for an actively stabilized rocket. Additionally, aerodynamic control and effiecncy is control was targeted for future projects. 
 
-Unlike a conventional fin-stabilized rocket where the fins remain fixed throughout flight, this vehicle uses **four independently actuated fins**. The fins can be dynamically positioned through servo-driven mechanical linkages, allowing the vehicle to experiment with real-time aerodynamic control.
-
-The project combines mechanical design, additive manufacturing, composite reinforcement, embedded electronics, control software, and flight testing into a single aerospace engineering platform.
+Unlike other rockets, this vehicle uses the four independently actuated fins to keep a straight upward trajectory. Future plans include guiding the flight vehicle on the downward decent as well.  
 
 ---
 
 ## Design
 
-The entire vehicle was designed in **Autodesk Fusion 360**, including the external airframe, internal structure, servo mounts, fin mechanisms, motor section, and recovery components.
-
-The design was developed around a modular architecture so that the mechanical, propulsion, recovery, and electronics sections can be iterated independently.
-
-### CAD
-
-The airframe is designed to be manufactured primarily through **FDM 3D printing using PETG**.
-
-The external skin is subsequently reinforced using fiberglass cloth and laminating epoxy to improve structural stiffness and durability.
+The entire vehicle was designed in Fusion 360, including the external airframe, internal structure, servo mounts, fin mechanisms, motor section, and other various components. The main concept of the design was to develop around a modular architecture so that mechanical, electronics and propulsion sections can be swapped without effecting the entire rocket design. 
 
 ---
 
-## Airframe
+## Internal Render
 
-The primary airframe uses **PETG** as the base structural material.
-
-The external airframe is reinforced with fiberglass cloth and resin to provide additional stiffness while maintaining a relatively lightweight structure.
-
-The internal structure follows a similar PETG construction philosophy but does **not** receive the same fiberglass reinforcement as the external skin.
-
-This creates a lightweight internal framework for mounting the propulsion, servo, recovery, and electronics systems.
-
-### Structural Architecture
-
-```text
-                Nose
-                 │
-                 ▼
-        ┌─────────────────┐
-        │   Nose Section  │
-        ├─────────────────┤
-        │                 │
-        │  Electronics /  │
-        │  Flight System  │
-        │                 │
-        ├─────────────────┤
-        │  Servo Section  │
-        │                 │
-        │  S1   S2        │
-        │  S3   S4        │
-        │                 │
-        ├─────────────────┤
-        │  Fin Actuation  │
-        ├─────────────────┤
-        │ Motor Section   │
-        ├─────────────────┤
-        │   29 mm Motor   │
-        └─────────────────┘
-                 │
-                 ▼
-               Nozzle
+<img width="4000" height="4000" alt="RenderRocket2" src="https://github.com/user-attachments/assets/372d5562-6eb5-486d-8557-0a52d4ba5bb6" />
