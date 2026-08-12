@@ -1,18 +1,15 @@
 # Fin-Stabilized Vehicle
 
 <img width="4000" height="4000" alt="RenderRocket1" src="https://github.com/user-attachments/assets/e68ac21f-8f91-4a3a-990d-c32c723329bf" />
-<img width="4000" height="4000" alt="RenderRocket2" src="https://github.com/user-attachments/assets/be5978d4-175a-4ecd-bd4e-35436daccb5a" />
-
 
 <h4 align="center">
-A four-fin actively stabilized rocket designed for aerodynamic control and experimental flight systems.
+An actively stabilized rocket designed for control and experimental flight. 
 </h4>
 
 <div align="center">
 
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6B00?style=for-the-badge&logo=autodesk&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![PETG](https://img.shields.io/badge/PETG-3D%20Printed-00A98F?style=for-the-badge)
 ![Hack Club](https://img.shields.io/badge/Hack%20Club-EC3750?style=for-the-badge)
 
 
