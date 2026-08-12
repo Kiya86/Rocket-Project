@@ -14,7 +14,7 @@ An actively stabilized rocket designed for control and experimental flight.
 </div>
 
 <p align="center">
-  <a href="#key-features">Features</a> •
+  <a href="#features">Features</a> •
   <a href="#purpose">Purpose</a> •
   <a href="#design">Design</a> •
   <a href="#propulsion">Propulsion</a> •
